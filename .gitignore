@@ -33,11 +33,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.DS_Store
+.idea
+.vscode
 Library
 Temp
-AssetBundles
+DLC
 UnityPackageManager
-*.mdb
-*.meta
-XAsset.dll
-XAssetEditor.dll
